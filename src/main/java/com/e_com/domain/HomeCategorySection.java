@@ -1,4 +1,4 @@
-package com.E_com.model;
+package com.e_com.domain;
 
 public enum HomeCategorySection {
 	
